@@ -1,24 +1,67 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
-    "social":[
-        {"name":"", "link":""}
+    "name": "Angie Diaz",
+    "cvTitle": "SEO Analyst",
+    "cvDescription": "Analista de Posicionamiento Web. Padawan de JavaScript.",
+    "social": [
+        {
+            "name": "twitter",
+            "link": "https://wwww.twitter.com/wonderchori"
+        }
     ],
-    "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+    "education": [
+        {
+            "title": "Web Developer",
+            "institution": "ADA IT",
+            "endYear": "2019",
+            "description": "Web Developer. Html5, CSS, Javascript"
+        },
+        {
+            "title": "Diplomatura de SEO",
+            "institution": "ITBA",
+            "endYear": "2017",
+            "description": "Diplomatura de SEO - Optimización en Motores de Búsqueda, SEO - Motores de Búsqueda"
+        }
     ],
-    "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+    "skills": [
+        {
+            "title": "Google Analytics",
+            "level": "Avanzado"
+        },
+        {
+            "title": "Google Search Console",
+            "level": "Avanzado"
+        },
+        {
+            "title": "HTML5",
+            "level": "Sigo aprendiendo"
+        },
+        {
+            "title": "Sass",
+            "level": "En continuo aprendizaje"
+        },
+        {
+            "title": "Javascript",
+            "level": "Ya casi que lo entiendo"
+        }
     ],
-    "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+    "blog": [
+        {
+            "title": "La insoportable levedad de ser web developer",
+            "sutitle": "Nunca paro de sufrir",
+            "excerpt": "Aquel que quiere permanentemente ‘llegar más alto’ tiene que contar con que algún día le invadirá el vértigo",
+            "text": "Con cierto toque de ironía, Kundera también habla de otra renuncia en función del amor: la de la razón. Una de las frases de La insoportable levedad del ser dice: “Allí donde habla el corazón es de mala educación que la razón lo contradiga”. Con esto quiere señalar que es más cierto y relevante lo que está en los sentimientos, que aquello que habita los pensamientos.",
+            "images": "https://lamenteesmaravillosa.com/wp-content/uploads/2018/02/pareja-debajo-del-agua.jpg"
+        },
+        {
+            "title": "Functional JS From Α to Ω: Map",
+            "sutitle": "[B] Map function — the first in our holy trinity",
+            "excerpt": "“Map” is an important construct, not only because it captures a common pattern, but because it establishes a higher level of abstraction in dealing with lists.” — SICP, 1979",
+            "text": "Why was one of the greatest historical language of programming humbly named Lisp, for List Processing? Why do functional programmers make a big deal about a function named map? The answer to those questions is the same, bound to the true nature of informatics. What we do all days is remapping 0 and 1 chains, into other 0 and 1 chains. They eventually represent a new signal impacting the real world (colorize a screen, move a mechanical arm, structure a website, etc.).It’s always the same Turing complete process, and, for now, we are stuck with that.",
+            "images": "https://miro.medium.com/max/700/1*lkWnbtOoqnAY7sqllBadrA.jpeg"
+        }
     ],
-    "contact":{
-        "phone":"",
-        "email":""
+    "contact": {
+        "phone": "+5491165822727",
+        "email": "yelunchi@gmail.com"
     }
 }
