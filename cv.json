@@ -1,0 +1,24 @@
+{
+    "name":"",
+    "cvTitle":"",
+    "cvDescription":"",
+    "social":[
+        {"name":"", "link":""}
+    ],
+    "education":[
+        {"title":"", "institution":"", "endYear":"", "description":""},
+        {"title":"", "institution":"", "endYear":"", "description":""}
+    ],
+    "skills":[
+        {"title":"", "level":""},
+        {"title":"", "level":""}
+    ],
+    "blog":[
+        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
+        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+    ],
+    "contact":{
+        "phone":"",
+        "email":""
+    }
+}
